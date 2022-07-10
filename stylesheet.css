@@ -3,3 +3,7 @@
     background-color: #f7f2b4;
     height: 90px;
   }
+/*リストのマークをなくす*/
+li{
+  list-style: none;
+}
